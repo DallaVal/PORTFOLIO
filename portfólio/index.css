@@ -1,0 +1,34 @@
+/*HEADER*/
+header h1{}/*nome*/
+header p{}/*profissão*/
+
+/*MAIN SOBRE MIM*/
+.sobremim h1{}/*sobre mim*/
+.sobremim p{}/*textos sobre mi,*/
+
+/*MAIN PROJETOS*/
+.projetos h1{}/*projetos*/
+.projetos ul{}/*lista de projetos*/
+.projetos li{}/*items da lista de projetos*/
+.projetos a{}/*link dos projetos*/
+.projetos p{}/*nome dos projetos*/
+.projetos img{}/*imagens dos projetos*/
+#projeto1{}/*imagem do projeto1*/
+#projeto2{}/*imagem do projeto2*/
+#projeto3{}/*imagem do projeto1*/
+
+/*FOOTER COM LINKS*/
+.footerlinks{}/*lista de contatos com links*/
+.footerlinks li{}/*items*/
+.footerlinks a{}/*links*/
+.footerlinks p{}/*nome dos contatos ex:WHATSAPP*/
+.footerlinks img{}/*logo dos apps*/
+
+/*FOOTER ESCRITO*/
+.footercontatos{}/*lista de contatos escritos*/
+.footercontatos li{}/*items*/
+.footercontatos h4{}/*titulo numero e email*/
+.footercontatos p{}/*numero e email*/
+
+/*COPYRIGHT*/
+.copyright{}/*tetxo de copyright*/
