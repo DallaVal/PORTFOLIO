@@ -1,0 +1,56 @@
+/*CORPO*/
+body{font-family: Arial, Helvetica, sans-serif;}/*site inteiro*/
+body p,h1{}/*textos do site*/
+
+/*HEADER*/
+header{}/*cabeçalho*/
+header img{}/*foto*/
+header h1{}/*nome*/
+header p{}/*profissão*/
+
+/*MAIN*/
+/*SOBRE MIM*/
+.sobremim{}/*main*/
+.sobremim h1{}/*sobre mim*/
+.sobremim p{}/*textos sobre mim*/
+.sobremim b{}/*destaques no texto*/
+.sobremim strong{}/*destaques no texto*/
+
+/*PROJETOS*/
+.projetos{}/*main*/
+.projetos h1{}/*projetos*/
+.projetos ul{}/*lista de projetos*/
+.projetos li{}/*items da lista de projetos*/
+.projetos a{}/*link dos projetos*/
+.projetos p{}/*nome dos projetos*/
+.projetos img{}/*imagens dos projetos*/
+/*IMAGENS SEPARADAS PROJETOS*/
+#projeto1{}/*imagem do projeto1*/
+#projeto2{}/*imagem do projeto2*/
+#projeto3{}/*imagem do projeto1*/
+
+/*FOOTER*/
+footer{}
+/*LISTA COM LINKS*/
+.footerlinks{list-style: none;}/*lista de contatos com links*/
+.footerlinks li{}/*items*/
+.footerlinks a{
+    text-decoration: none;
+    transition: .5s;}/*links*/
+.footerlinks a:hover{transform: scale(1.5);}/*movimento das imagens*/
+.footerlinks p{}/*nome dos contatos ex:WHATSAPP*/
+.footerlinks img{}/*logo dos apps*/
+/*IMAGENS SEPARADAS*/
+#whatsapp{}/*logo whatsapp*/
+#instagram{}/*logo instagram*/
+#github{}/*logo github*/
+#linkedin{}/*logo linkedin*/
+
+/*LISTA ESCRITA*/
+.footercontatos{}/*lista de contatos escritos*/
+.footercontatos li{}/*items*/
+.footercontatos h4{}/*titulo numero e email*/
+.footercontatos p{}/*numero e email*/
+
+/*COPYRIGHT*/
+.copyright{}/*tetxo de copyright*/
